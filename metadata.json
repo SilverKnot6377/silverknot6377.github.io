@@ -1,0 +1,5 @@
+{
+  "name": "Quickee",
+  "description": "A vertical video platform for creators to showcase their work in short-form snippets.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
